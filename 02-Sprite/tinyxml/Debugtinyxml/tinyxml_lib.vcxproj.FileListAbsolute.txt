@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\New folder (2)\gamedev-intro-tutorials\02-Sprite\tinyxml\Debugtinyxml\tinyxml.lib
+C:\Users\Admin\Desktop\New folder (2)\gamedev-intro-tutorials\02-Sprite\tinyxml\Debugtinyxml\tinyxml.pdb

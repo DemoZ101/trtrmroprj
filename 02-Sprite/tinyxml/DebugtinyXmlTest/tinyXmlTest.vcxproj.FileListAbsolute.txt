@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\New folder (2)\gamedev-intro-tutorials\02-Sprite\tinyxml\DebugtinyXmlTest\tinyXmlTest.exe
+C:\Users\Admin\Desktop\New folder (2)\gamedev-intro-tutorials\02-Sprite\tinyxml\DebugtinyXmlTest\tinyXmlTest.pdb
